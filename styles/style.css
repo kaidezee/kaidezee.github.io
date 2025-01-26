@@ -7,3 +7,16 @@
 body {
 font-family: 'HackNerdFont', sans-serif;
 }
+
+left-bottom {
+  position: absolute;
+  left: 0;
+  bottom: 0;
+}
+
+right-bottom {
+  position: absolute;
+  right: 0;
+  bottom: 0;
+}
+
