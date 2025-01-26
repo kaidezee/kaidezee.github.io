@@ -5,18 +5,20 @@
 }
 
 body {
-font-family: 'HackNerdFont', sans-serif;
+    font-family: 'HackNerdFont', sans-serif;
+    color: #111111;
+    background-color: #666666;
 }
 
-left-bottom {
-  position: absolute;
-  left: 0;
-  bottom: 0;
+.left-bottom {
+    position: absolute;
+    left: 0;
+    bottom: 0;
 }
 
-right-bottom {
-  position: absolute;
-  right: 0;
-  bottom: 0;
+.right-bottom {
+    position: absolute;
+    right: 0;
+    bottom: 0;
 }
 
